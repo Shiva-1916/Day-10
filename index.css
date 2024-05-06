@@ -60,16 +60,18 @@
     margin-left: 1%;
  }
  button{
-    width: 380px;
+    width: 350px;
     background-color:lightgrey;
     border-width: 0px;
     height: 40px;
-    font-size: 17px;
+    font-size: 15px;
+    border-left: 1%;
+
  }
  .input_type {
     margin-left: 1%;
     height: 40px;
-    width: 1510px;
+    width: 1400px;
     margin-bottom: 10px;
     border-width: 1px;
  }
@@ -89,6 +91,7 @@
     color: white;
     text-align: center;
     padding-top: 3%;
+    width: 98%;
  }
 
  .de {
